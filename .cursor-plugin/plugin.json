@@ -1,11 +1,12 @@
 {
   "name": "aicut",
   "displayName": "aicut",
-  "description": "Generate AI video, images and voice-over on your own aicut account, and analyse any video, from Cursor.",
-  "version": "1.0.0",
+  "description": "Generate AI videos, images, audio and staged AI Video Story episodes on your own aicut account, and publish them to social, from Cursor.",
+  "version": "1.1.0",
   "author": {
     "name": "aicut",
-    "email": "support@aicut.pro"
+    "email": "support@aicut.pro",
+    "url": "https://www.aicut.pro"
   },
   "publisher": "aicut",
   "homepage": "https://www.aicut.pro/mcp",
@@ -17,10 +18,18 @@
     "video-generation",
     "image-generation",
     "text-to-speech",
-    "sound-effects",
+    "ai-video-story",
     "video-analysis",
+    "social-publishing",
     "mcp"
   ],
   "category": "developer-tools",
-  "tags": ["media", "creative", "ai-generation", "video", "image", "audio"]
+  "tags": [
+    "media",
+    "creative",
+    "ai-generation",
+    "video",
+    "image",
+    "audio"
+  ]
 }
