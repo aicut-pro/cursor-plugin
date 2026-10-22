@@ -1,8 +1,8 @@
 {
   "name": "aicut",
   "displayName": "aicut",
-  "description": "Generate AI videos, images, audio and staged AI Video Story episodes on your own aicut account, and publish them to social, from Cursor.",
-  "version": "1.1.0",
+  "description": "Generate AI videos, images, audio and staged AI Video Story episodes on your own aicut account, and publish them to social, from Cursor. Includes skills for the aicut CLI (npm i -g aicut-cli).",
+  "version": "1.2.0",
   "author": {
     "name": "aicut",
     "email": "support@aicut.pro",
@@ -21,7 +21,9 @@
     "ai-video-story",
     "video-analysis",
     "social-publishing",
-    "mcp"
+    "mcp",
+    "cli",
+    "skills"
   ],
   "category": "developer-tools",
   "tags": [
@@ -31,5 +33,6 @@
     "video",
     "image",
     "audio"
-  ]
+  ],
+  "skills": "./skills/"
 }

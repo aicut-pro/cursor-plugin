@@ -162,3 +162,11 @@ Asking for an estimate first is the safe habit.
 - Server metadata and the full tool reference: [aicut-pro/aicut-mcp](https://github.com/aicut-pro/aicut-mcp)
 - Account and billing: [aicut.pro](https://www.aicut.pro)
 - Support: support@aicut.pro
+
+## Skills for the aicut CLI
+
+This plugin also ships the [aicut skills](https://github.com/aicut-pro/skills) in `skills/`. They
+let Cursor's agent drive the `aicut` command line: install it with `npm i -g aicut-cli`, sign in
+with `aicut login`, then ask for a video, image, voiceover or story episode. Every job is priced
+first and nothing is spent until you say go. The skills are copied from `aicut-pro/skills`; change
+them there.
